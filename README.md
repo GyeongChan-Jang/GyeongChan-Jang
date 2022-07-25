@@ -3,11 +3,14 @@
 
 <h2 align="center">🙌 Indtroduction</h2>
 
+
 <p align="center">
-<h3>안녕하세요! 프론트엔드 개발자가 되기위해 공부중입니다</h4>
-<h3>코드를 깊이 이해하고 활용하는 방향의 개발을 지향합니다.</h4>
+  
+<h3 align="center">안녕하세요! 프론트엔드 개발자가 되기위해 공부중입니다</h4>
+<h3 align="center">코드를 깊이 이해하고 활용하는 방향의 개발을 지향합니다.</h4>
 
 </p>
+
 
 <h2 align="center">🛠 Tech Stack</h2>
 
