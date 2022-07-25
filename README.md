@@ -1,6 +1,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B6DCB6&height=300&section=header&text=GyeongChan%20Jang&fontSize=90)
 
+<h2 algin="center">Indtroduction</h2>
+
+<p align="center">
+<h4>안녕하세요! 프론트엔드 개발자가 되기위해 공부중입니다</h4>
+<h4>코드를 깊이 이해하고 활용하는 방향의 개발을 지향합니다.</h4>
+
+</p>
+
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">Techs that I've used at least once</p>
@@ -35,3 +43,9 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
+
+<p align="center">
+![GyeongChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-zerone&show_icons=true&theme=swift)
+</p>
+
+![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
