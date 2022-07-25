@@ -13,7 +13,7 @@
  
 <h3 align="center">Framework<h/3>
   <p align="center>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-#FC08D?style=flat-square&logo=Vue&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-#FC08D?style=flat-square&logo=Vuex.jsx&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-#FC08D?style=flat-square&logo=Vue Router&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vuex.jsx&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue Router&logoColor=white"/>
   </p>
   
 <h3 align="center">Style<h/3>
