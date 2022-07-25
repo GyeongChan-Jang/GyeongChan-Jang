@@ -48,3 +48,9 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
 
+<h2 align="center">:mailbox: Me</h2>
+
+<p align="center">
+<a href="https://velog.io/@zerone"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://twitter.com/dev_zerone"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+</p>
