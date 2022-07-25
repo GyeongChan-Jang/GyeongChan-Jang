@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B6DCB6&height=300&section=header&text=GyeongChan%20Jang&fontSize=90)
 
-<h2 algin="center">Indtroduction</h2>
+<h2 align="center">🙌 Indtroduction</h2>
 
 <p align="center">
 <h4>안녕하세요! 프론트엔드 개발자가 되기위해 공부중입니다</h4>
@@ -45,7 +45,6 @@
 </p>
 
 <p align="center">
-![GyeongChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-zerone&show_icons=true&theme=swift)
+![dev-zerone's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-zerone&show_icons=true&theme=swift)
 </p>
 
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
