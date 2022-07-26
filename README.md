@@ -55,7 +55,6 @@
 <a href="https://twitter.com/dev_zerone"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 
-<p>
-![GyeongChan-Jang's github stats](https://github-readme-stats.vercel.app/api?username=GyeongChan-Jang&show_icons=true)
-[![GyeongChan-Jang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GyeongChan-Jang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=swift)](https://github.com/GyeongChan-Jang)
-</p>
+<!-- <p>
+![GyeongChan-Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyeongChan-Jang&show_icons=true)
+</p> -->
