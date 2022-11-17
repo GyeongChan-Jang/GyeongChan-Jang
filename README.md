@@ -6,7 +6,6 @@
 
 <p align="center">
   
-<h3 align="center">안녕하세요!😊 프론트엔드 개발자가 되기 위해 공부중입니다.</h3>
 <h3 align="center">코드를 깊이 이해하고 활용하는 방향의 개발을 지향합니다.</h3>
 <h3 align="center">개발시 사용자 친화적인 UI/UX를 끊임없이 고민합니다.</h3>
 
