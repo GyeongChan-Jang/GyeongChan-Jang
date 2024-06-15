@@ -1,8 +1,24 @@
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gyeongchan-jang)](https://www.linkedin.com/in/gyeongchan-jang/)
+[![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cham9994@gmail.com)](mailto:cham9994@gmail.com)
+[![Insta Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jk._.chan/)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=B6DCB6&height=300&section=header&text=GyeongChan%20Jang&fontSize=90)
+## 👨🏻‍💻 GyeongChan Jang
+- Frontend Engineer
+- I'm interested in generating and validating ideas quickly | zero-to-one sprit
 
+## 🛠 Tech Stack
+- Javascript | Typescript
+- React.js | React-Native | Next.js
+- Node.js
+- GraphQL
+
+## 📫 Career
+- [Foodnoteservice](https://fc.jangboo.kr/) | Frontend Engineer (2022.11 ~ )
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=B6DCB6&height=300&section=header&text=GyeongChan%20Jang&fontSize=90) -->
+
+<!--
 <h2 align="center">🙌 Indtroduction</h2>
-
 
 <p align="center">
   
@@ -54,6 +70,7 @@
 <a href="https://twitter.com/dev_zerone"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 
-<!-- <p>
+<p>
 ![GyeongChan-Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyeongChan-Jang&show_icons=true)
-</p> -->
+</p>
+-->
