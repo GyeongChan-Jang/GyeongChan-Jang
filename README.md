@@ -16,7 +16,7 @@
 - [Foodnoteservice](https://fc.jangboo.kr/) | Frontend Engineer (2022.11 ~ )
 
 ## 🏃‍♂️ Running
-![](https://github.com/GyeongChan-Jang/GitHubPoster/tree/main/OUT_FOLDER/strava.svg)
+![](https://github.com/GyeongChan-Jang/GitHubPoster/blob/main/OUT_FOLDER/strava.svg)
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=B6DCB6&height=300&section=header&text=GyeongChan%20Jang&fontSize=90) -->
 
