@@ -3,7 +3,7 @@
 [![Insta Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jk._.chan/)
 
 ## 👨🏻‍💻 GyeongChan Jang
-- Frontend Engineer
+- Software Engineer
 - I'm interested in generating and validating ideas quickly | zero-to-one sprit
 
 ## 🛠 Tech Stack
