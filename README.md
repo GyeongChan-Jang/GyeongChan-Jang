@@ -14,7 +14,7 @@
 
 ## 📫 Career
 - [Foodnoteservice](https://fc.jangboo.kr/) | Frontend Engineer (2022.11 ~ 2024.12.31)
-- [Encrypt(Fragmetric)](https://fragmetric.xyz/) | Frontend Engineer (2025.1.13 ~ )
+- [Encrypt(Fragmetric)](https://fragmetric.xyz/) | Software Engineer (2025.1.13 ~ )
 
 ## 🏃‍♂️ Running
 ![](https://github.com/GyeongChan-Jang/GitHubPoster/blob/main/OUT_FOLDER/strava.svg)
